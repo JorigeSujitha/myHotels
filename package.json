@@ -1,0 +1,15 @@
+{
+  "name": "nodejsmodules",
+  "version": "1.0.0",
+  "description": "it is a nodeJS class",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujitha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  }
+}
